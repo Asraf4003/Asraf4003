@@ -1,5 +1,5 @@
 # The sum of the series 1^2+3^2+5^2+7^2+………………+n^2 #
-n = int(input("enter n:"))
+n = int(input("enter number:"))
 sum,i = 0,1
 
 
