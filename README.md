@@ -1,4 +1,4 @@
-# The sum of the series 12+32+53+72+………………+n2 #
+# The sum of the series 1^2+3^2+5^2+7^2+………………+n^2 #
 n = int(input("enter n:"))
 sum,i = 0,1
 
